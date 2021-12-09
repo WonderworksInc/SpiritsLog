@@ -4,3 +4,5 @@ SpiritsLog is completely private to you.  It syncs information only locally to y
 
 ## Acknowledgments
 SpiritsLog uses SQLite.Swift (https://github.com/stephencelis/SQLite.swift) downloaded on April 03, 2021.  It is under the MIT license.
+
+SpiritsLog uses  SwiftUISearchBar (https://github.com/appcoda/SwiftUISearchBar) downloaded on December 9, 2021.  It is under the MIT license.
